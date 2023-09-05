@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ekans\\OneDrive\\Documents\\Blockchain\\PoshBlock\\Poshblock\\Latest\\client\\contracts\\Poshblock.sol": {
+      "lastModificationDate": 1690793860169,
+      "contentHash": "ecc4699bd3bc504c423bbee2ac0a253f",
+      "sourceName": "contracts/Poshblock.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Poshblock"
+      ]
+    }
+  }
+}

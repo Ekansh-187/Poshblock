@@ -1,0 +1,12 @@
+contract:
+createContract->fetch info and upload it on blockchain--+
+ |                                                      |
+ +-<<<<--fetch the hash and update it in database ------+
+ 
+auto update active status
+
+user:
+auth
+payment
+
+message:
